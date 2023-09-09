@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Saathi</string>
+    <string name="yourLocation">You\'re in India</string>
+    <string name="help">Need Help?</string>
+    <string name="discover">Discover</string>
+    <string name="awesomeWorld">awesome world</string>
+    <string name="search">Search</string>
+    <string name="popular">Popular </string>
+    <string name="place">Places</string>
+    <string name="tajmahal">Taj Mahal</string>
+    <string name="indiagate">India Gate</string>
+    <string name="statueofunity">State of Unity</string>
+    <string name="whatyousaw">What you saw</string>
+    <string name="show">show all</string>
+    <!--    Text for history view-->
+    <string name="fantast">Fantasy</string>
+    <string name="romans">Romans</string>
+    <string name="mahabharat">Mahabharat</string>
+    <string name="ramayan">Ramayan</string>
+    <string name="japan">Japanese</string>
+</resources>
