@@ -1,4 +1,4 @@
-# Saarathi
+# Saarthi
 Welcome to Saarathi, your AR-based tour guide for immersive experiences!
 
 # Overview
